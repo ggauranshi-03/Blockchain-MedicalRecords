@@ -20,7 +20,7 @@ SmartMeds is a blockchain-based healthcare application that aims to provide a se
 
 ## Project Demo
 
-![Google Drive Link to view Photos and Video](https://drive.google.com/drive/folders/10VP53H5WoBNJJPfW0HTkJHj5qwcXY8L0?usp=sharing)
+![Demo Screenshot](https://drive.google.com/file/d/18HLCqg0zmFkfWsT7vpz-F5Wq8xkGI8ZJ/view?usp=sharing)
 
 ## Deployed Smart Contract
 
