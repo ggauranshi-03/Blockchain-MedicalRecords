@@ -29,7 +29,7 @@ SmartMeds is a blockchain-based healthcare application that aims to provide a se
 
 ## Presentation
 
-[Project Presentation](https://www.canva.com/design/DAFcb36d3gs/FovnN-K8W1QbhYQS3UqyXw/view?utm_content=DAFcb36d3gs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[Project Presentation](https://www.canva.com/design/DAFcb36d3gs/FovnN-K8W1QbhYQS3UqyXw/view?utm_content=DAFcb36d3gs&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 ## Team Members
 
